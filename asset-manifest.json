@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/weatherhook/static/css/main.8fc6c256.chunk.css",
+    "main.js": "/weatherhook/static/js/main.deab545f.chunk.js",
+    "main.js.map": "/weatherhook/static/js/main.deab545f.chunk.js.map",
+    "runtime-main.js": "/weatherhook/static/js/runtime-main.a4818d77.js",
+    "runtime-main.js.map": "/weatherhook/static/js/runtime-main.a4818d77.js.map",
+    "static/css/2.bd5f6a9d.chunk.css": "/weatherhook/static/css/2.bd5f6a9d.chunk.css",
+    "static/js/2.a31f4e52.chunk.js": "/weatherhook/static/js/2.a31f4e52.chunk.js",
+    "static/js/2.a31f4e52.chunk.js.map": "/weatherhook/static/js/2.a31f4e52.chunk.js.map",
+    "static/js/3.c69dae3f.chunk.js": "/weatherhook/static/js/3.c69dae3f.chunk.js",
+    "static/js/3.c69dae3f.chunk.js.map": "/weatherhook/static/js/3.c69dae3f.chunk.js.map",
+    "index.html": "/weatherhook/index.html",
+    "static/css/2.bd5f6a9d.chunk.css.map": "/weatherhook/static/css/2.bd5f6a9d.chunk.css.map",
+    "static/css/main.8fc6c256.chunk.css.map": "/weatherhook/static/css/main.8fc6c256.chunk.css.map",
+    "static/js/2.a31f4e52.chunk.js.LICENSE.txt": "/weatherhook/static/js/2.a31f4e52.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/weatherhook/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4818d77.js",
+    "static/css/2.bd5f6a9d.chunk.css",
+    "static/js/2.a31f4e52.chunk.js",
+    "static/css/main.8fc6c256.chunk.css",
+    "static/js/main.deab545f.chunk.js"
+  ]
+}
